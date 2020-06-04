@@ -1,0 +1,13 @@
+C:\Users\Usuário\Documents\VS\source\repos\HelloWorld_console\HelloWorld_console\bin\Debug\netcoreapp3.1\HelloWorld_console.exe
+C:\Users\Usuário\Documents\VS\source\repos\HelloWorld_console\HelloWorld_console\bin\Debug\netcoreapp3.1\HelloWorld_console.deps.json
+C:\Users\Usuário\Documents\VS\source\repos\HelloWorld_console\HelloWorld_console\bin\Debug\netcoreapp3.1\HelloWorld_console.runtimeconfig.json
+C:\Users\Usuário\Documents\VS\source\repos\HelloWorld_console\HelloWorld_console\bin\Debug\netcoreapp3.1\HelloWorld_console.runtimeconfig.dev.json
+C:\Users\Usuário\Documents\VS\source\repos\HelloWorld_console\HelloWorld_console\bin\Debug\netcoreapp3.1\HelloWorld_console.dll
+C:\Users\Usuário\Documents\VS\source\repos\HelloWorld_console\HelloWorld_console\bin\Debug\netcoreapp3.1\HelloWorld_console.pdb
+C:\Users\Usuário\Documents\VS\source\repos\HelloWorld_console\HelloWorld_console\obj\Debug\netcoreapp3.1\HelloWorld_console.csprojAssemblyReference.cache
+C:\Users\Usuário\Documents\VS\source\repos\HelloWorld_console\HelloWorld_console\obj\Debug\netcoreapp3.1\HelloWorld_console.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\VS\source\repos\HelloWorld_console\HelloWorld_console\obj\Debug\netcoreapp3.1\HelloWorld_console.AssemblyInfo.cs
+C:\Users\Usuário\Documents\VS\source\repos\HelloWorld_console\HelloWorld_console\obj\Debug\netcoreapp3.1\HelloWorld_console.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\VS\source\repos\HelloWorld_console\HelloWorld_console\obj\Debug\netcoreapp3.1\HelloWorld_console.dll
+C:\Users\Usuário\Documents\VS\source\repos\HelloWorld_console\HelloWorld_console\obj\Debug\netcoreapp3.1\HelloWorld_console.pdb
+C:\Users\Usuário\Documents\VS\source\repos\HelloWorld_console\HelloWorld_console\obj\Debug\netcoreapp3.1\HelloWorld_console.genruntimeconfig.cache
