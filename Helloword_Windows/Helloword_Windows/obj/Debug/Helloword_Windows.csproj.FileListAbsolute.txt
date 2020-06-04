@@ -1,0 +1,10 @@
+C:\Users\Usuário\Documents\VS\source\repos\Helloword_Windows\Helloword_Windows\bin\Debug\Helloword_Windows.exe.config
+C:\Users\Usuário\Documents\VS\source\repos\Helloword_Windows\Helloword_Windows\bin\Debug\Helloword_Windows.exe
+C:\Users\Usuário\Documents\VS\source\repos\Helloword_Windows\Helloword_Windows\bin\Debug\Helloword_Windows.pdb
+C:\Users\Usuário\Documents\VS\source\repos\Helloword_Windows\Helloword_Windows\obj\Debug\Helloword_Windows.csprojAssemblyReference.cache
+C:\Users\Usuário\Documents\VS\source\repos\Helloword_Windows\Helloword_Windows\obj\Debug\Helloword_Windows.Form1.resources
+C:\Users\Usuário\Documents\VS\source\repos\Helloword_Windows\Helloword_Windows\obj\Debug\Helloword_Windows.Properties.Resources.resources
+C:\Users\Usuário\Documents\VS\source\repos\Helloword_Windows\Helloword_Windows\obj\Debug\Helloword_Windows.csproj.GenerateResource.cache
+C:\Users\Usuário\Documents\VS\source\repos\Helloword_Windows\Helloword_Windows\obj\Debug\Helloword_Windows.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\VS\source\repos\Helloword_Windows\Helloword_Windows\obj\Debug\Helloword_Windows.exe
+C:\Users\Usuário\Documents\VS\source\repos\Helloword_Windows\Helloword_Windows\obj\Debug\Helloword_Windows.pdb
