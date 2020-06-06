@@ -1,0 +1,10 @@
+C:\Users\Usuário\Documents\VS\source\repos\Conceito_Do_While\Conceito_Do_While\obj\Debug\Conceito_Do_While.csprojAssemblyReference.cache
+C:\Users\Usuário\Documents\VS\source\repos\Conceito_Do_While\Conceito_Do_While\obj\Debug\Conceito_Do_While.Form1.resources
+C:\Users\Usuário\Documents\VS\source\repos\Conceito_Do_While\Conceito_Do_While\obj\Debug\Conceito_Do_While.Properties.Resources.resources
+C:\Users\Usuário\Documents\VS\source\repos\Conceito_Do_While\Conceito_Do_While\obj\Debug\Conceito_Do_While.csproj.GenerateResource.cache
+C:\Users\Usuário\Documents\VS\source\repos\Conceito_Do_While\Conceito_Do_While\obj\Debug\Conceito_Do_While.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\VS\source\repos\Conceito_Do_While\Conceito_Do_While\bin\Debug\Conceito_Do_While.exe.config
+C:\Users\Usuário\Documents\VS\source\repos\Conceito_Do_While\Conceito_Do_While\bin\Debug\Conceito_Do_While.exe
+C:\Users\Usuário\Documents\VS\source\repos\Conceito_Do_While\Conceito_Do_While\bin\Debug\Conceito_Do_While.pdb
+C:\Users\Usuário\Documents\VS\source\repos\Conceito_Do_While\Conceito_Do_While\obj\Debug\Conceito_Do_While.exe
+C:\Users\Usuário\Documents\VS\source\repos\Conceito_Do_While\Conceito_Do_While\obj\Debug\Conceito_Do_While.pdb

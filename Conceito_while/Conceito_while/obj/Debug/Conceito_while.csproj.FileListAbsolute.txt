@@ -1,0 +1,12 @@
+C:\Users\Usuário\Documents\VS\source\repos\Conceito_while\Conceito_while\bin\Debug\Conceito_while.exe.config
+C:\Users\Usuário\Documents\VS\source\repos\Conceito_while\Conceito_while\bin\Debug\Conceito_while.exe
+C:\Users\Usuário\Documents\VS\source\repos\Conceito_while\Conceito_while\bin\Debug\Conceito_while.pdb
+C:\Users\Usuário\Documents\VS\source\repos\Conceito_while\Conceito_while\obj\Debug\Conceito_while.csprojAssemblyReference.cache
+C:\Users\Usuário\Documents\VS\source\repos\Conceito_while\Conceito_while\obj\Debug\Conceito_while.Form1.resources
+C:\Users\Usuário\Documents\VS\source\repos\Conceito_while\Conceito_while\obj\Debug\Conceito_while.Properties.Resources.resources
+C:\Users\Usuário\Documents\VS\source\repos\Conceito_while\Conceito_while\obj\Debug\Conceito_while.csproj.GenerateResource.cache
+C:\Users\Usuário\Documents\VS\source\repos\Conceito_while\Conceito_while\obj\Debug\Conceito_while.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\VS\source\repos\Conceito_while\Conceito_while\obj\Debug\Conceito_while.exe
+C:\Users\Usuário\Documents\VS\source\repos\Conceito_while\Conceito_while\obj\Debug\Conceito_while.pdb
+C:\Users\Usuário\Documents\VS\source\repos\Conceito_while\Conceito_while\obj\Debug\Conceito_while.Form2.resources
+C:\Users\Usuário\Documents\VS\source\repos\Conceito_while\Conceito_while\obj\Debug\Conceito_while.Form3.resources
