@@ -1,0 +1,10 @@
+C:\Users\Usuário\source\repos\Condicao_if\Condicao_if\bin\Debug\Condicao_if.exe.config
+C:\Users\Usuário\source\repos\Condicao_if\Condicao_if\bin\Debug\Condicao_if.exe
+C:\Users\Usuário\source\repos\Condicao_if\Condicao_if\bin\Debug\Condicao_if.pdb
+C:\Users\Usuário\source\repos\Condicao_if\Condicao_if\obj\Debug\Condicao_if.csprojAssemblyReference.cache
+C:\Users\Usuário\source\repos\Condicao_if\Condicao_if\obj\Debug\Condicao_if.Form1.resources
+C:\Users\Usuário\source\repos\Condicao_if\Condicao_if\obj\Debug\Condicao_if.Properties.Resources.resources
+C:\Users\Usuário\source\repos\Condicao_if\Condicao_if\obj\Debug\Condicao_if.csproj.GenerateResource.cache
+C:\Users\Usuário\source\repos\Condicao_if\Condicao_if\obj\Debug\Condicao_if.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\Condicao_if\Condicao_if\obj\Debug\Condicao_if.exe
+C:\Users\Usuário\source\repos\Condicao_if\Condicao_if\obj\Debug\Condicao_if.pdb
